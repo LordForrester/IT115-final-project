@@ -1,2 +1,6 @@
 <h1> Credits </h1>
-<p>Developer: James Filip</p>
+<ul>
+  <li>Developer: James Filip</li>
+  <li>Developer: James Filip</li>
+  <li>Developer: James Filip</li>
+</ul>
